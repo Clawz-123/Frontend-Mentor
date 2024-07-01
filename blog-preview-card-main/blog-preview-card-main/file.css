@@ -1,0 +1,30 @@
+
+:root{
+    --color-primary-very-dark-magenta:  rgb(255, 214, 81);
+}
+
+
+.body {
+    background-color: rgb(255, 214, 81);
+}
+
+.centre {
+    margin: auto;
+    width: 20%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: aliceblue;
+    align-items: center;
+    border-radius: 20px;
+}
+.image{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.learn{
+    background-color: var(--color-primary-very-dark-magenta);
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+}
